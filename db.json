@@ -1,0 +1,40 @@
+{
+  "reservas": [
+    {
+      "id": "1",
+      "nombreCliente": "Alejandro Mendoza",
+      "fechaHora": "2026-05-26T20:00",
+      "cantidadPersonas": 4,
+      "estado": "Finalizada"
+    },
+    {
+      "id": "2",
+      "nombreCliente": "Gabriela Ortiz",
+      "fechaHora": "2026-05-26T19:30",
+      "cantidadPersonas": 2,
+      "estado": "En Espera"
+    },
+    {
+      "id": "3",
+      "nombreCliente": "Roberto Carlos",
+      "fechaHora": "2026-05-26T18:00",
+      "cantidadPersonas": 6,
+      "estado": "Finalizada"
+    },
+    {
+      "nombreCliente": "Kelly Bedoya",
+      "fechaHora": "2026-05-26T17:00",
+      "cantidadPersonas": 2,
+      "estado": "Confirmada",
+      "id": "j3ZOvswBgOo"
+    },
+    {
+      "nombreCliente": "Julian Montoya",
+      "fechaHora": "2026-05-28T19:00",
+      "cantidadPersonas": 10,
+      "estado": "En Espera",
+      "id": "whPIsbaDz2c"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
