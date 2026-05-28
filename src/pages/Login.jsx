@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
 
+// Página de Login para Anfitriones
 const Login = () => {
   const [nombre, setNombre] = useState('');
   const [turno, setTurno] = useState('');
