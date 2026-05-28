@@ -56,6 +56,7 @@ Para ejecutar la aplicacion de manera completa, se deben iniciar dos servicios d
 Paso 1: Iniciar el Servidor de la API (Backend Mock)
 Abra una ventana de la terminal en la raiz del proyecto y ejecute:
 bash
+- npm install -D json-server
 - npm run api
 Este comando levantara json-server en el puerto 5001 utilizando el archivo db.json como base de datos persistente.
 
