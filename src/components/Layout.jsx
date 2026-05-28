@@ -62,7 +62,7 @@ const Layout = ({ children }) => {
           </div>
           <div>
             <h1 className="font-serif font-extrabold text-2xl tracking-wide bg-gradient-to-r from-white via-gold-200 to-gold-400 bg-clip-text text-transparent my-0">
-              LumiTable
+              LUMITABLE
             </h1>
             <p className="text-[10px] uppercase tracking-widest text-gold-400/80 font-semibold">
               Host Assistant System

@@ -80,7 +80,7 @@ const Login = () => {
             <span className="font-serif font-extrabold text-3xl text-black">T</span>
           </div>
           <h1 className="font-serif font-extrabold text-3xl md:text-4xl text-gray-100 tracking-wide mb-1">
-            TABLE-TRACK
+            LUMITABLE
           </h1>
           <p className="text-xs uppercase tracking-widest text-gold-400 font-semibold">
             Sistema de Gestión de Reservas
