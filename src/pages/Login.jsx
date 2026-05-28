@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
 
+// Página de Login para Anfitriones
 const Login = () => {
   const [nombre, setNombre] = useState('');
   const [turno, setTurno] = useState('');
@@ -80,7 +81,7 @@ const Login = () => {
             <span className="font-serif font-extrabold text-3xl text-black">T</span>
           </div>
           <h1 className="font-serif font-extrabold text-3xl md:text-4xl text-gray-100 tracking-wide mb-1">
-            TABLE-TRACK
+            LUMITABLE
           </h1>
           <p className="text-xs uppercase tracking-widest text-gold-400 font-semibold">
             Sistema de Gestión de Reservas
